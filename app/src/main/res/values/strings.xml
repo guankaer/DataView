@@ -1,0 +1,27 @@
+<resources>
+    <string name="st_hr">HR</string>
+    <string name="st_timedomain">Time-domain parameter</string>
+    <string name="st_avnn">AVNN</string>
+    <string name="st_sdnn">SDNN</string>
+    <string name="st_rmssd">rMSSD</string>
+    <string name="st_pnn50">pNN50</string>
+    <string name="bt_nodevice">No bluetooth device detected</string>
+    <string name="bt_noconn">Unconnected</string>
+    <string name="bt_search">Bluetooth is searching&#8230;</string>
+    <string name="bt_connect">Bluetooth is connecting&#8230;</string>
+    <string name="bt_abort">Bluetooth connection interruption</string>
+    <string name="bt_fail">Bluetooth connection failed</string>
+    <string name="tb_1">lead I</string>
+    <string name="tb_2">lead II</string>
+    <string name="tb_3">lead III</string>
+    <string name="gsensor_x">X</string>
+    <string name="gsensor_y">Y</string>
+    <string name="gsensor_z">Z</string>
+    <string name="bt_success">Bluetooth connection is successful</string>
+    <string name="bt_reconn">Please click on again for Bluetooth connection</string>
+    <string name="readfile">Read file</string>
+    <string name="bluetoothChoose">Choose your bluetooth</string>
+    <string name="folderChoose">Choose a file</string>
+    <string name="anglePicker">Set Angle</string>
+    <string name="startAngle">0</string>
+</resources>
