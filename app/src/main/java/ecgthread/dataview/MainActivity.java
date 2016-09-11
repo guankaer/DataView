@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     private CharSequence adapteritems[] = {
             "Dual-SPP:8C:DE:52:C9:3F:86",
             "Dual-SPP:34:81:F4:11:0D:A7",
-            "Dual-SPP:34:81:F4:11:0D:74 ",
+//            "Dual-SPP:34:81:F4:11:0D:74 ",
     };
 
     private ImageView openBluetooth;
